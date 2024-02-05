@@ -1,3 +1,6 @@
+# Screenshots for Python Env Setup :
+![output](image.png)
+
 # Enhanced Homework 2 Instructions
 
 ## Overview
